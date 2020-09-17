@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<2<<end1;
+    cout<<"file1(4)"<<end1;
 }
